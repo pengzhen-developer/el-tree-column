@@ -1,0 +1,14 @@
+.el-table-tree-column {
+  cursor: pointer;
+}
+
+.el-table-tree-column .el-table-tree-column-icon {
+  display: inline-block;
+  font-weight: bold;
+  width: 12px;
+  text-align: center;
+}
+
+.el-table-tree-column .el-table-tree-column-span {
+  margin: 0 0 0 8px;
+}
